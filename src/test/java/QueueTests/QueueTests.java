@@ -1,15 +1,15 @@
 package test.java.QueueTests;
-
+//AWS SDK
 import com.amazonaws.auth.AWSStaticCredentialsProvider;
 import com.amazonaws.auth.BasicAWSCredentials;
 import com.amazonaws.client.builder.AwsClientBuilder;
 import com.amazonaws.services.sqs.AmazonSQS;
 import com.amazonaws.services.sqs.AmazonSQSClientBuilder;
 import com.amazonaws.services.sqs.model.*;
-
+//TestNG
 import org.testng.Assert;
 import org.testng.annotations.*;
-
+//RestAssured
 import io.restassured.RestAssured;
 import io.restassured.path.xml.XmlPath;
 import io.restassured.http.Method;
@@ -26,10 +26,10 @@ public class QueueTests {
     private static String accessKey = "x";
     private static String secretKey = "x";
     private static String queueName = "test_queue" ;
-    private static List<String> qurl = new ArrayList<>();
     private static Integer queueCount = 3;
     private static Integer msgCount = 3;
     private static AmazonSQS client;
+    private static List<String> qurl = new ArrayList<>();
     private static List<String> msgId = new ArrayList<>();
     private static String queueUrl;
 
