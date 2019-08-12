@@ -1,0 +1,8 @@
+<suite name="Queue Test Suite" verbose="1">
+    <test name="QueueTests" preserve-order="true">
+        <classes>
+            <class name="test.java.QueueTests.QueueTests">
+            </class>
+        </classes>
+    </test>
+</suite>

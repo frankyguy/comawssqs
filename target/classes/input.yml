@@ -1,0 +1,12 @@
+test1:
+  endpoint: "localhost:9324"
+  region: "elasticmq"
+  accesskey: "x"
+  sharedkey: "x"
+  queue:
+    count: 4
+    name: "TestQ"
+    message:
+      count: 5
+      name: "TestMsg"
+

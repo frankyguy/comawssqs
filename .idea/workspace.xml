@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c24651de-1d63-4957-822d-00b6f84d5474" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1PF75n23EFXvuyU0ezlxIn2YKsh" />
+  <component name="PropertiesComponent">
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/test/java" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.E:/aws/test/sqs/comawssqs/testng.xml">
+    <configuration name="E:/aws/test/sqs/comawssqs/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="comawssqs" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QueueTests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="comawssqs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="QueueTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="QueueTests" />
+      <option name="MAIN_CLASS_NAME" value="QueueTests.QueueTests" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QueueTests.CreateQueueTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="comawssqs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="QueueTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="QueueTests" />
+      <option name="MAIN_CLASS_NAME" value="QueueTests.QueueTests" />
+      <option name="METHOD_NAME" value="CreateQueueTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QueueTests.SendMessageTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="comawssqs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="QueueTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="QueueTests" />
+      <option name="MAIN_CLASS_NAME" value="QueueTests.QueueTests" />
+      <option name="METHOD_NAME" value="SendMessageTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QueueTests.deleteQ" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="comawssqs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="QueueTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="QueueTests" />
+      <option name="MAIN_CLASS_NAME" value="QueueTests.QueueTests" />
+      <option name="METHOD_NAME" value="deleteQ" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.E:/aws/test/sqs/comawssqs/testng.xml" />
+        <item itemvalue="TestNG.QueueTests" />
+        <item itemvalue="TestNG.QueueTests.SendMessageTest" />
+        <item itemvalue="TestNG.QueueTests.CreateQueueTest" />
+        <item itemvalue="TestNG.QueueTests.deleteQ" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c24651de-1d63-4957-822d-00b6f84d5474" name="Default Changelist" comment="" />
+      <created>1565457809743</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565457809743</updated>
+    </task>
+    <servers />
+  </component>
+</project>
